@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(105, 29, 167);
+    font: normal 15pt Arial;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding-bottom: 100px;
+}
+
+div {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 75px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.496);
+}
+
+#n1 {
+    width: 235px;
+    height: 20px;
+}
+
+#n2 {
+    width: 235px;
+    height: 20px;
+}
+
+button {
+    color: black;
+    font-size: 20px;
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+}
+
+#res {
+    height: 20px;
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
