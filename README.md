@@ -1,5 +1,5 @@
 # Calculadora
-Uma calculadora que possui as funções de somar, subtrair, multiplicar e dividir.
+Uma calculadora que possui as funções de somar, subtrair, multiplicar, dividir, resto de divisão e raiz quadrada(o valor dentro da raiz fica dentro do primeiro campo).
 
 ### Tecnologias usadas:
 
